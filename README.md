@@ -9,6 +9,7 @@ Time for Code é uma plataforma educacional online destinada ao ensino de progra
 * [Visão Geral](#visão-geral)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Funcionalidades](#funcionalidades)
+* [Imagens do protótipo](#imagens-do-protótipo)
 - Como Abrir o Protótipo
 - Equipe
 - Contribuição
@@ -37,6 +38,31 @@ Time for Code é uma plataforma educacional online destinada ao ensino de progra
     <td><img src="https://github.com/laycsz/TimeForCode/blob/main/assets/TimeForCode2.gif" width="400"></td>
   </tr>
 </table>
+<br>
+<h3>Mobile 📱</h3>
+<br>
+<table> 
+  <tr>
+    <td><img src="https://github.com/laycsz/TimeForCode/blob/main/assets/TimeForCodeMobile.gif" width="250"></td>
+    <td><img src="https://github.com/laycsz/TimeForCode/blob/main/assets/TimeForCodeMobile2.gif" width="250"></td>
+  </tr>
+</table>
+
+## Como abrir o protótipo
+<h3> Protótipo para Desktop 💻</h3>
+<p>
+Acesse o link do protótipo no Figma:
+<br>
+<a href="https://www.figma.com/file/nufW4WBImZUAO0peNYdlJh/Time-for-Code?type=design&node-id=0-1&mode=design">Protótipo Mobile</a>
+</p>
+
+<h3> Protótipo para Mobille 📱</h3>
+<p>
+Acesse o link do protótipo no Figma:
+<br>
+<a href="https://www.figma.com/proto/nufW4WBImZUAO0peNYdlJh/Time-for-Code?type=design&node-id=206-1029&t=frOjcPn8dB5SauPq-1&scaling=min-zoom&page-id=27%3A1332&starting-point-node-id=206%3A1029&show-proto-sidebar=1&mode=design
+">Protótipo Desktop</a>
+</p>
 
     
 
