@@ -27,8 +27,11 @@ Time for Code é uma plataforma educacional online destinada ao ensino de progra
 - Feedback Personalizado: Sugestões e avaliações construtivas para apoiar o aprendizado contínuo.</p>
 
 ## Imagens do protótipo
-<p align="center">
-    <img width="700" src="https://github.com/laycsz/TimeForCode/blob/main/assets/Gif.gif">
+
+<h3>Desktop 💻</h3>
+<br>
+<p>
+    <img width="650" src="https://github.com/laycsz/TimeForCode/blob/main/assets/TimeForCode-.gif">
 
 </p>
 
