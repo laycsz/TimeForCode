@@ -50,7 +50,7 @@ Time for Code é uma plataforma educacional online destinada ao ensino de progra
 ## Como abrir o protótipo
 <h3> Protótipo para Desktop 💻</h3>
 <p> Acesse o link do protótipo no Figma:</p>
-<a href="https://www.figma.com/file/nufW4WBImZUAO0peNYdlJh/Time-for-Code?type=design&node-id=0-1&mode=design">Protótipo Desktop</a>
+<a href="https://www.figma.com/proto/nufW4WBImZUAO0peNYdlJh/Time-for-Code?page-id=0%3A1&type=design&node-id=386-92&viewport=-1389%2C140%2C0.11&t=5jTjdm4yOqyBDZcC-1&scaling=scale-down&starting-point-node-id=386%3A92">Protótipo Desktop</a>
 </p>
 <h3> Protótipo para Mobille 📱</h3>
 <p>
